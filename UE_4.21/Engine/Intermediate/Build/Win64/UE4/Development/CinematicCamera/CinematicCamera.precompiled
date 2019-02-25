@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\Engine\\SharedPCH.Engine.h.obj",
+		"Module.CinematicCamera.cpp.obj",
+		"Module.CinematicCamera.gen.cpp.obj"
+	]
+}

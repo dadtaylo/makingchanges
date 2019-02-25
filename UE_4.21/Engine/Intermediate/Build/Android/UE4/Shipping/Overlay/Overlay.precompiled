@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.Overlay.cppa7.o",
+		"Module.Overlay.cppa8.o",
+		"Module.Overlay.gen.cppa7.o",
+		"Module.Overlay.gen.cppa8.o"
+	]
+}

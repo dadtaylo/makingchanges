@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\Engine\\SharedPCH.Engine.h.obj",
+		"PhysXCooking.cpp.obj"
+	]
+}

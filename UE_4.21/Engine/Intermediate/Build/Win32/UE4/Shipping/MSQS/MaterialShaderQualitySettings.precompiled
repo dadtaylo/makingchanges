@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\CoreUObject\\SharedPCH.CoreUObject.h.obj",
+		"Module.MSQS.cpp.obj",
+		"Module.MSQS.gen.cpp.obj"
+	]
+}

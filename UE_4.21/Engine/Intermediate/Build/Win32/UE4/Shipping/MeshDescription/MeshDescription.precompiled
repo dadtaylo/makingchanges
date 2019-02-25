@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\CoreUObject\\SharedPCH.CoreUObject.h.obj",
+		"Module.MeshDescription.cpp.obj",
+		"Module.MeshDescription.gen.cpp.obj"
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\CoreUObject\\SharedPCH.CoreUObject.h.obj",
+		"Module.PortalProxies.cpp.obj"
+	]
+}

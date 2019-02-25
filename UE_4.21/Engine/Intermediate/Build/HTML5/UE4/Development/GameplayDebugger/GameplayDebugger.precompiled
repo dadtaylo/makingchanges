@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.GameplayDebugger.cpp.bc",
+		"Module.GameplayDebugger.gen.cpp.bc"
+	]
+}

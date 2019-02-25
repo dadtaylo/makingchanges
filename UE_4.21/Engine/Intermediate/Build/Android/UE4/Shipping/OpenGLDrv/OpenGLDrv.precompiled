@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"Module.OpenGLDrv.1_of_3.cppa7.o",
+		"Module.OpenGLDrv.2_of_3.cppa7.o",
+		"Module.OpenGLDrv.3_of_3.cppa7.o",
+		"Module.OpenGLDrv.1_of_3.cppa8.o",
+		"Module.OpenGLDrv.2_of_3.cppa8.o",
+		"Module.OpenGLDrv.3_of_3.cppa8.o"
+	]
+}

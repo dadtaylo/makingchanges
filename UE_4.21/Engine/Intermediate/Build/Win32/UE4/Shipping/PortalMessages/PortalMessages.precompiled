@@ -1,0 +1,11 @@
+{
+	"OutputFiles": [
+		"..\\CoreUObject\\SharedPCH.CoreUObject.h.obj",
+		"PortalMessagesModule.cpp.obj",
+		"PortalApplicationWindowMessages.gen.cpp.obj",
+		"PortalMessages.init.gen.cpp.obj",
+		"PortalPackageInstallerMessages.gen.cpp.obj",
+		"PortalUserLoginMessages.gen.cpp.obj",
+		"PortalUserMessages.gen.cpp.obj"
+	]
+}

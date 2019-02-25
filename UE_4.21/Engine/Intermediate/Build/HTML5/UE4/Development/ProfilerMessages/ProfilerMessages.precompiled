@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"ProfilerMessagesModule.cpp.bc",
+		"ProfilerMessages.init.gen.cpp.bc",
+		"ProfilerServiceMessages.gen.cpp.bc"
+	]
+}

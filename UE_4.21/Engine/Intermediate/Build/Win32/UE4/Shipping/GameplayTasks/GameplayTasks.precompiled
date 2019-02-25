@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\Engine\\SharedPCH.Engine.h.obj",
+		"Module.GameplayTasks.cpp.obj",
+		"Module.GameplayTasks.gen.cpp.obj"
+	]
+}

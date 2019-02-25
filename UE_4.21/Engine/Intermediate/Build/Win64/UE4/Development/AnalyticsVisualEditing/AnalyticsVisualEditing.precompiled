@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\Engine\\SharedPCH.Engine.h.obj",
+		"AnalyticsVisualEditing.cpp.obj",
+		"AnalyticsSettings.gen.cpp.obj",
+		"AnalyticsVisualEditing.init.gen.cpp.obj"
+	]
+}

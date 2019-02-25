@@ -1,0 +1,12 @@
+{
+	"OutputFiles": [
+		"Module.Landscape.1_of_3.cppa7.o",
+		"Module.Landscape.2_of_3.cppa7.o",
+		"Module.Landscape.3_of_3.cppa7.o",
+		"Module.Landscape.1_of_3.cppa8.o",
+		"Module.Landscape.2_of_3.cppa8.o",
+		"Module.Landscape.3_of_3.cppa8.o",
+		"Module.Landscape.gen.cppa7.o",
+		"Module.Landscape.gen.cppa8.o"
+	]
+}

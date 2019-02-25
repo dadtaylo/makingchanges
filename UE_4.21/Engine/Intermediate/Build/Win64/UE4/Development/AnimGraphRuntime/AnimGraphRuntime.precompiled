@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"..\\Engine\\SharedPCH.Engine.h.obj",
+		"Module.AnimGraphRuntime.cpp.obj",
+		"Module.AnimGraphRuntime.gen.1_of_3.cpp.obj",
+		"Module.AnimGraphRuntime.gen.2_of_3.cpp.obj",
+		"Module.AnimGraphRuntime.gen.3_of_3.cpp.obj"
+	]
+}

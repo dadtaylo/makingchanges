@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.VectorVM.cpp.bc",
+		"Module.VectorVM.gen.cpp.bc"
+	]
+}

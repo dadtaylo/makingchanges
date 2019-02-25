@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\CoreUObject\\SharedPCH.CoreUObject.h.obj",
+		"Module.ClientPilot.cpp.obj",
+		"Module.ClientPilot.gen.cpp.obj"
+	]
+}

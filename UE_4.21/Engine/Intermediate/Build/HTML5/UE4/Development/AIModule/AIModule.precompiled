@@ -1,0 +1,15 @@
+{
+	"OutputFiles": [
+		"Module.AIModule.1_of_4.cpp.bc",
+		"Module.AIModule.2_of_4.cpp.bc",
+		"Module.AIModule.3_of_4.cpp.bc",
+		"Module.AIModule.4_of_4.cpp.bc",
+		"Module.AIModule.gen.1_of_7.cpp.bc",
+		"Module.AIModule.gen.2_of_7.cpp.bc",
+		"Module.AIModule.gen.3_of_7.cpp.bc",
+		"Module.AIModule.gen.4_of_7.cpp.bc",
+		"Module.AIModule.gen.5_of_7.cpp.bc",
+		"Module.AIModule.gen.6_of_7.cpp.bc",
+		"Module.AIModule.gen.7_of_7.cpp.bc"
+	]
+}

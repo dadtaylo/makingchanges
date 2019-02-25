@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.Serialization.cpp.bc",
+		"Module.Serialization.gen.cpp.bc"
+	]
+}

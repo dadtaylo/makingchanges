@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"EngineMessagesModule.cppa7.o",
+		"EngineMessagesModule.cppa8.o",
+		"EngineMessages.init.gen.cppa7.o",
+		"EngineServiceMessages.gen.cppa7.o",
+		"EngineMessages.init.gen.cppa8.o",
+		"EngineServiceMessages.gen.cppa8.o"
+	]
+}

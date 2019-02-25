@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.LevelSequence.cppa7.o",
+		"Module.LevelSequence.cppa8.o",
+		"Module.LevelSequence.gen.cppa7.o",
+		"Module.LevelSequence.gen.cppa8.o"
+	]
+}

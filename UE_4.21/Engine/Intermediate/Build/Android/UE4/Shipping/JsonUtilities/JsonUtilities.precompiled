@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.JsonUtilities.cppa7.o",
+		"Module.JsonUtilities.cppa8.o",
+		"Module.JsonUtilities.gen.cppa7.o",
+		"Module.JsonUtilities.gen.cppa8.o"
+	]
+}

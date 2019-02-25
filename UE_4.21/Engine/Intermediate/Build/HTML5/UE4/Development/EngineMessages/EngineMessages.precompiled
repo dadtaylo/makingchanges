@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"EngineMessagesModule.cpp.bc",
+		"EngineMessages.init.gen.cpp.bc",
+		"EngineServiceMessages.gen.cpp.bc"
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\Engine\\SharedPCH.Engine.h.obj",
+		"HttpNetworkReplayStreaming.cpp.obj"
+	]
+}

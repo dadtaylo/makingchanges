@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\CoreUObject\\SharedPCH.CoreUObject.h.obj",
+		"Module.MediaUtils.cpp.obj",
+		"Module.MediaUtils.gen.cpp.obj"
+	]
+}

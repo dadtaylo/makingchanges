@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\CoreUObject\\SharedPCH.CoreUObject.h.obj",
+		"Module.ClothSysRuntimeIntrfc.cpp.obj",
+		"Module.ClothSysRuntimeIntrfc.gen.cpp.obj"
+	]
+}

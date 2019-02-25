@@ -1,0 +1,16 @@
+{
+	"OutputFiles": [
+		"PortalMessagesModule.cppa7.o",
+		"PortalMessagesModule.cppa8.o",
+		"PortalApplicationWindowMessages.gen.cppa7.o",
+		"PortalMessages.init.gen.cppa7.o",
+		"PortalPackageInstallerMessages.gen.cppa7.o",
+		"PortalUserLoginMessages.gen.cppa7.o",
+		"PortalUserMessages.gen.cppa7.o",
+		"PortalApplicationWindowMessages.gen.cppa8.o",
+		"PortalMessages.init.gen.cppa8.o",
+		"PortalPackageInstallerMessages.gen.cppa8.o",
+		"PortalUserLoginMessages.gen.cppa8.o",
+		"PortalUserMessages.gen.cppa8.o"
+	]
+}

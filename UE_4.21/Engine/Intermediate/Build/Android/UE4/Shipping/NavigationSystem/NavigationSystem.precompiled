@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.NavigationSystem.cppa7.o",
+		"Module.NavigationSystem.cppa8.o",
+		"Module.NavigationSystem.gen.cppa7.o",
+		"Module.NavigationSystem.gen.cppa8.o"
+	]
+}

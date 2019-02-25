@@ -1,0 +1,22 @@
+{
+	"OutputFiles": [
+		"EngineSettingsModule.cppa7.o",
+		"EngineSettingsModule.cppa8.o",
+		"ConsoleSettings.gen.cppa7.o",
+		"EngineSettings.init.gen.cppa7.o",
+		"GameMapsSettings.gen.cppa7.o",
+		"GameNetworkManagerSettings.gen.cppa7.o",
+		"GameSessionSettings.gen.cppa7.o",
+		"GeneralEngineSettings.gen.cppa7.o",
+		"GeneralProjectSettings.gen.cppa7.o",
+		"HudSettings.gen.cppa7.o",
+		"ConsoleSettings.gen.cppa8.o",
+		"EngineSettings.init.gen.cppa8.o",
+		"GameMapsSettings.gen.cppa8.o",
+		"GameNetworkManagerSettings.gen.cppa8.o",
+		"GameSessionSettings.gen.cppa8.o",
+		"GeneralEngineSettings.gen.cppa8.o",
+		"GeneralProjectSettings.gen.cppa8.o",
+		"HudSettings.gen.cppa8.o"
+	]
+}

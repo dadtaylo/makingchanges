@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.LiveLinkMessageBusFramework.cppa7.o",
+		"Module.LiveLinkMessageBusFramework.cppa8.o",
+		"Module.LiveLinkMessageBusFramework.gen.cppa7.o",
+		"Module.LiveLinkMessageBusFramework.gen.cppa8.o"
+	]
+}

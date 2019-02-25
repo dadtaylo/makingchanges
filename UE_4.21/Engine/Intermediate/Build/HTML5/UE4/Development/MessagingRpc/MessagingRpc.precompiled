@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.MessagingRpc.cpp.bc",
+		"Module.MessagingRpc.gen.cpp.bc"
+	]
+}

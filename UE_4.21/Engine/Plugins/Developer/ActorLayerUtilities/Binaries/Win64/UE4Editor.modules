@@ -1,0 +1,8 @@
+{
+	"BuildId": "4541578",
+	"Modules": 
+	{
+		"ActorLayerUtilities": "UE4Editor-ActorLayerUtilities.dll",
+		"ActorLayerUtilitiesEditor": "UE4Editor-ActorLayerUtilitiesEditor.dll"
+	}
+}

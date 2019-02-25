@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.BuildPatchServices.1_of_3.cpp.bc",
+		"Module.BuildPatchServices.2_of_3.cpp.bc",
+		"Module.BuildPatchServices.3_of_3.cpp.bc",
+		"Module.BuildPatchServices.gen.cpp.bc"
+	]
+}

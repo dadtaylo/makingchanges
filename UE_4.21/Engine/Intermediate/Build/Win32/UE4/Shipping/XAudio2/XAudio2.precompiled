@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\Engine\\SharedPCH.Engine.h.obj",
+		"Module.XAudio2.cpp.obj"
+	]
+}

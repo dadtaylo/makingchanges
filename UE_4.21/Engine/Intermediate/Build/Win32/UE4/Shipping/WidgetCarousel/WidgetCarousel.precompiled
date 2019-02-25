@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\Slate\\SharedPCH.Slate.h.obj",
+		"Module.WidgetCarousel.cpp.obj",
+		"Module.WidgetCarousel.gen.cpp.obj"
+	]
+}

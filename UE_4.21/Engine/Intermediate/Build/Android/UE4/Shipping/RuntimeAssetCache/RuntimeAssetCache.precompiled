@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.RuntimeAssetCache.cppa7.o",
+		"Module.RuntimeAssetCache.cppa8.o",
+		"Module.RuntimeAssetCache.gen.cppa7.o",
+		"Module.RuntimeAssetCache.gen.cppa8.o"
+	]
+}

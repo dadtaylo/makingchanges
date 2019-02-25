@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.GameplayTags.cppa7.o",
+		"Module.GameplayTags.cppa8.o",
+		"Module.GameplayTags.gen.cppa7.o",
+		"Module.GameplayTags.gen.cppa8.o"
+	]
+}

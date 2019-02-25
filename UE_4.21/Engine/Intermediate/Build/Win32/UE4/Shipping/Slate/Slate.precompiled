@@ -1,0 +1,11 @@
+{
+	"OutputFiles": [
+		"..\\CoreUObject\\SharedPCH.CoreUObject.h.obj",
+		"Module.Slate.1_of_5.cpp.obj",
+		"Module.Slate.2_of_5.cpp.obj",
+		"Module.Slate.3_of_5.cpp.obj",
+		"Module.Slate.4_of_5.cpp.obj",
+		"Module.Slate.5_of_5.cpp.obj",
+		"Module.Slate.gen.cpp.obj"
+	]
+}

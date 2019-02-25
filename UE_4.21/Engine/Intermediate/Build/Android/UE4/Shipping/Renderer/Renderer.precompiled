@@ -1,0 +1,30 @@
+{
+	"OutputFiles": [
+		"Module.Renderer.1_of_12.cppa7.o",
+		"Module.Renderer.2_of_12.cppa7.o",
+		"Module.Renderer.3_of_12.cppa7.o",
+		"Module.Renderer.4_of_12.cppa7.o",
+		"Module.Renderer.5_of_12.cppa7.o",
+		"Module.Renderer.6_of_12.cppa7.o",
+		"Module.Renderer.7_of_12.cppa7.o",
+		"Module.Renderer.8_of_12.cppa7.o",
+		"Module.Renderer.9_of_12.cppa7.o",
+		"Module.Renderer.10_of_12.cppa7.o",
+		"Module.Renderer.11_of_12.cppa7.o",
+		"Module.Renderer.12_of_12.cppa7.o",
+		"Module.Renderer.1_of_12.cppa8.o",
+		"Module.Renderer.2_of_12.cppa8.o",
+		"Module.Renderer.3_of_12.cppa8.o",
+		"Module.Renderer.4_of_12.cppa8.o",
+		"Module.Renderer.5_of_12.cppa8.o",
+		"Module.Renderer.6_of_12.cppa8.o",
+		"Module.Renderer.7_of_12.cppa8.o",
+		"Module.Renderer.8_of_12.cppa8.o",
+		"Module.Renderer.9_of_12.cppa8.o",
+		"Module.Renderer.10_of_12.cppa8.o",
+		"Module.Renderer.11_of_12.cppa8.o",
+		"Module.Renderer.12_of_12.cppa8.o",
+		"Module.Renderer.gen.cppa7.o",
+		"Module.Renderer.gen.cppa8.o"
+	]
+}

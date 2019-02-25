@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.LiveLinkInterface.cppa7.o",
+		"Module.LiveLinkInterface.cppa8.o",
+		"Module.LiveLinkInterface.gen.cppa7.o",
+		"Module.LiveLinkInterface.gen.cppa8.o"
+	]
+}

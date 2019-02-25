@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.GameMenuBuilder.cppa7.o",
+		"Module.GameMenuBuilder.cppa8.o",
+		"Module.GameMenuBuilder.gen.cppa7.o",
+		"Module.GameMenuBuilder.gen.cppa8.o"
+	]
+}

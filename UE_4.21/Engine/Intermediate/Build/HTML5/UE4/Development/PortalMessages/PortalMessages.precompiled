@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"PortalMessagesModule.cpp.bc",
+		"PortalApplicationWindowMessages.gen.cpp.bc",
+		"PortalMessages.init.gen.cpp.bc",
+		"PortalPackageInstallerMessages.gen.cpp.bc",
+		"PortalUserLoginMessages.gen.cpp.bc",
+		"PortalUserMessages.gen.cpp.bc"
+	]
+}

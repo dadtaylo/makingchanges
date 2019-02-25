@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\Slate\\SharedPCH.Slate.h.obj",
+		"Module.AppFramework.cpp.obj"
+	]
+}

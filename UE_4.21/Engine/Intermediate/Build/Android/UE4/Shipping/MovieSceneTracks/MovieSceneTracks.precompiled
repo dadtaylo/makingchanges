@@ -1,0 +1,12 @@
+{
+	"OutputFiles": [
+		"Module.MovieSceneTracks.cppa7.o",
+		"Module.MovieSceneTracks.cppa8.o",
+		"Module.MovieSceneTracks.gen.1_of_3.cppa7.o",
+		"Module.MovieSceneTracks.gen.2_of_3.cppa7.o",
+		"Module.MovieSceneTracks.gen.3_of_3.cppa7.o",
+		"Module.MovieSceneTracks.gen.1_of_3.cppa8.o",
+		"Module.MovieSceneTracks.gen.2_of_3.cppa8.o",
+		"Module.MovieSceneTracks.gen.3_of_3.cppa8.o"
+	]
+}

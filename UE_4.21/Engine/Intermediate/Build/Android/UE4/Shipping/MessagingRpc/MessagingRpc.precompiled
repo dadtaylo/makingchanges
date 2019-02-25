@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.MessagingRpc.cppa7.o",
+		"Module.MessagingRpc.cppa8.o",
+		"Module.MessagingRpc.gen.cppa7.o",
+		"Module.MessagingRpc.gen.cppa8.o"
+	]
+}

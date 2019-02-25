@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"UnrealEdMessagesModule.cpp.bc",
+		"AssetEditorMessages.gen.cpp.bc",
+		"FileServerMessages.gen.cpp.bc",
+		"UnrealEdMessages.init.gen.cpp.bc"
+	]
+}

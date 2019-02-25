@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"SessionMessagesModule.cpp.bc",
+		"SessionMessages.init.gen.cpp.bc",
+		"SessionServiceMessages.gen.cpp.bc"
+	]
+}

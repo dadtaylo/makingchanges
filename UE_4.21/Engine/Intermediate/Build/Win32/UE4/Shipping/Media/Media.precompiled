@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\Core\\SharedPCH.Core.h.obj",
+		"Module.Media.cpp.obj"
+	]
+}

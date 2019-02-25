@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\Engine\\SharedPCH.Engine.h.obj",
+		"Module.AnimationCore.cpp.obj",
+		"Module.AnimationCore.gen.cpp.obj"
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.MoviePlayer.cppa7.o",
+		"Module.MoviePlayer.cppa8.o",
+		"Module.MoviePlayer.gen.cppa7.o",
+		"Module.MoviePlayer.gen.cppa8.o"
+	]
+}
